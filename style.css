@@ -187,3 +187,7 @@ p:nth-of-type(2) {
   color: rgba(255, 255, 255, 0.7);
   cursor: pointer;
 }
+a{
+  text-decoration: none;
+  color:rgba(255, 255, 255, 0.7);
+}
